@@ -2,6 +2,8 @@
 
 This project is my attempt of the [Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/aws/) – a hands-on exercise to build and deploy a resume website using AWS cloud services. The challenge demonstrates cloud engineering, DevOps, and software development skills.
 
+My Website: https://resume.saifoncloud.com/
+
 ---
 
 ## 🚀 Project Overview
